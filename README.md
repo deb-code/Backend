@@ -7,3 +7,4 @@ https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPy
 https://www.youtube.com/watch?v=7-HzgoRTQD4&list=PLLhBy6YSIT0ANaihpjwDBSBju0qUZ82SK&index=11 - dsa
 https://www.youtube.com/watch?v=ULnY8VW7YCs&list=PLLhBy6YSIT0ANaihpjwDBSBju0qUZ82SK - system design
 https://www.youtube.com/watch?v=SsPSJvH2mew - roadmap for sde2
+https://www.youtube.com/watch?v=ayZppqJAUcc - sde 1 roadmap
